@@ -1,5 +1,5 @@
-# Brian's REST Affiliate Category Posts Widget
- Creates a widget that will get and display posts from another WP blog's REST API.  User can select which category, how many posts to show, and cache times.
+# Brian's NASA API Pics 
+Creates a widget that will get and display 5 random pics as flip cards from NASA's API feed.
 
 
 Made With:
